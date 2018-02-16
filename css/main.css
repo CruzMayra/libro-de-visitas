@@ -1,0 +1,15 @@
+body > section > section:nth-child(2) {
+  margin: 5% auto;
+}
+
+.card {
+  margin: 3% auto;
+}
+
+#comment-text {
+  min-height: 100px;
+}
+
+#send-button {
+  margin: 3% auto;
+}
